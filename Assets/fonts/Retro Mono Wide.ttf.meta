@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c2052bfe6371d7a4682d5d7016e2323e
+timeCreated: 1512726904
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Retro Mono Wide
+  fontNames:
+  - Retro Mono Wide
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d4af140e734e6254495f08c7853f4499
+timeCreated: 1512726886
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rocket Propelled
+  fontNames:
+  - Rocket Propelled
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
